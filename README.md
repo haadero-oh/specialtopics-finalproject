@@ -1,4 +1,7 @@
 ## Valorant Performance Rating Prediction Using Deep Neural Network Based on Match Metrics
+**CPE194 Module 2 Summative Assessment/Final Project**  
+Proponents: *Alforque | Verdan | Batalan*
+Instructor: Engr. John A. Bacus
 
-CPE194 Module 2 Summative Assessment -  Final Project
-Alforque | Verdan | Batalan
+Dataset by created by Ryan Luong
+https://www.kaggle.com/datasets/ryanluong1/valorant-champion-tour-2021-2023-data/data
